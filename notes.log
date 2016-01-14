@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  14 JAN 2016 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  14 JAN 2016 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -747,26 +747,25 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ] [3]
-[4]
-Underfull \hbox (badness 1102) in paragraph at lines 749--752
+[4] [5]
+Underfull \hbox (badness 1102) in paragraph at lines 790--793
 []\T1/lmr/m/n/10 (+20) a la Turk -> Trib-ute to Turk-ish mu-si-cians (Brubeck
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 749--752
+Underfull \hbox (badness 10000) in paragraph at lines 790--793
 \T1/lmr/m/n/10 (+20) vis-ited Turkey) Bossa Nova (Pop-u-lar 1958-1963)
  []
 
-[5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 781.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 781.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 822.
+[6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 822.
  (./notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 781.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 781.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 822.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 822.
 Package rerunfilecheck Info: File `notes.out' has not changed.
 (rerunfilecheck)             Checksum: 6537BFDB0C8B4AAD3321BF24489E7144;493.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 781.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 822.
  ) 
 Here is how much of TeX's memory you used:
  10644 strings out of 494501
@@ -775,13 +774,13 @@ Here is how much of TeX's memory you used:
  13772 multiletter control sequences out of 15000+600000
  17331 words of font info for 27 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 31i,4n,35p,238b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,4n,35p,238b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/l
 ocal/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/tex
 live/2015basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/
 2015basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015b
 asic/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
-Output written on notes.pdf (6 pages, 75461 bytes).
+Output written on notes.pdf (6 pages, 76298 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams

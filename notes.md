@@ -16,6 +16,7 @@ Bop (1940s - Present)
     - Unique approach to improvisation
         * Used dissonance well
     - From Kansas City, Missouri (town known for blues)
+    - Married at 16 (soon divorced to move to NY)
     - Became addicted to heroin at 17
     - Known as "Bird"
     - Later in life was committed to a mental hospital after passing out and setting his bed on fire 
@@ -34,11 +35,19 @@ Bop (1940s - Present)
         * Hired a female trombonist and a Cuban bongo player for his band
     - Tied in jazz and Caribbean music
     - Tried to make Bop accessible to everyone
-        * failed to attract dancers
+        * Failed to attract dancers
 7. Thelonius Monk (Piano, 1917-1982)
     - Not very technically proficient
     - Unique harmonic approach
     - Embraced dissonance
+    - "Logical"
+    - Resident pianist at Minton's
+    - Eccentric: Would dress oddly, speak very little, get up during a performance to dance
+        * caused critics to dislike/dismiss him
+    - Denied a cabaret card after refusing to testify against Bud Powell for possession of narcotics
+        * Means he could not play in venues that sold alcohol
+        * Spent 6 years writing music
+        * Released an album that received great reviews which sparked new popularity for him
 8. Tadd Dameron (Piano/Composer, 1917-1965)
     - Wrote many modern day jazz standards
     - Wrote Hot House (Our recording is by Dizzy Gillespie)
@@ -47,6 +56,10 @@ Bop (1940s - Present)
     - Spanned many periods
     - Modern Jazz Quartet founder (Late in Bop, persisted through Cool)
         * Former members of Dizzy Gillespie's band
+        * Played in concert halls and wore tuxedos
+        * Piano, Drums, Bass, and Vibes
+    - Loathed the dissipation and drug use of Charlie Parker
+    - Insisted that his music be played with dignity
 10. Kenny Clarke (Drums, 1914-1985)
     - Changed the way that drummers played, invented Bop style
     - Drummer in house band at Minton's Playhouse
@@ -60,6 +73,8 @@ Bop (1940s - Present)
 14. Ray Brown (Bass, 1926-2002)
 15. Oscar Pettiford (Bass/Cello, 1922-1960)
 16. Bud Powell (Piano, 1924-1966)
+    - Brought Bop to the Keyboard
+    - "Could outbird Bird and outdizzy Dizzy"
     - Debatably a better improviser than Charlie Parker
 17. George Shearing (Piano, 1919-2011)
     - Commercially popular
