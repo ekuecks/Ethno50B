@@ -50,6 +50,7 @@ Bop (1940s - Present)
 10. Kenny Clarke (Drums, 1914-1985)
     - Changed the way that drummers played, invented Bop style
     - Drummer in house band at Minton's Playhouse
+    - Kept time on the cymbal
 11. Minton's Playhouse
     - Location for after hours jam sessions that gave rise to the Bop period
 12. Max Roach (Drums, 1924-2007)
@@ -91,7 +92,8 @@ Cool (Late 1940s - Present)
 4. Primarily Caucasian (vs. African-American for Bop)
 5. Synonymous with "West Coast Sound"
     - Really West Coast Sound contained in Cool
-6. Lester Young (Tenor, 1909-1959)
+6. Dry, light, airy sound compared to harsher, stronger Bop sound
+7. Lester Young (Tenor, 1909-1959)
     - Influenced both Bop and Cool
     - Known as a great swing era improviser
     - Played with Basie
@@ -102,20 +104,20 @@ Cool (Late 1940s - Present)
         * Most other tenors at the time gravitated to the lower register
         * Lester approached it more like an Alto player would
         * Delicate, light
-7. Miles Davis (Trumpet, 1926-1991)
+8. Miles Davis (Trumpet, 1926-1991)
     - Disliked the Cool label
     - New York musician
-    - Album: "The Birth of the Cool" (1950)
+    - Album: "Birth of the Cool" (1951)
         * Often mistakenly assumed to be the start of Cool
         * First of many collaborations with composer/pianist Ernest Gilmore "Gil" Evans
-        * 9 piece group
+        * 10 piece group
         * Notably contained tuba, bass clarinet, french horn, flute
         * Lee Konitz as a side man
-8. Stan Getz (Tenor, 1927-1991)
+9. Stan Getz (Tenor, 1927-1991)
     - Disliked the Cool label
-9. Modern Jazz Quartet (MJQ)
+10. Modern Jazz Quartet (MJQ)
     - Disliked the Cool label
-10. Lennie Tristano (Composer/Band Leader/Piano, 1919-1978)
+20. Lennie Tristano (Composer/Band Leader/Piano, 1919-1978)
     - Largely overlooked
     - One of the main creators of Cool as a modern jazz alternative to Bop
     - Influenced by pianist Art Tatum and Lester Young
@@ -128,18 +130,93 @@ Cool (Late 1940s - Present)
     - Influence on Bill Evans (piano)
     - Nearly blind
     - Played with splayed fingers on right hand, but curved left
-11. Lee Konitz (Alto, 1927-Present)
+21. Lee Konitz (Alto, 1927-Present)
     - Was a student of Lennie Tristano
         * Later colleague and band mate
     - Some claim he could rival Charlie Parker
         * Very different sound
         * Konitz was dry, airy, light vs. Parker's brittle sound
     - Preferred upper register
-12. Big bands had mostly disappeared by this time
+22. Big bands had mostly disappeared by this time
     - Some survivor's were Woody Herman's and Stan Kenton's bands
         * Both moved to the West Coast
         * Many noteworthy musicians started as members of these bands before contonuing on to solo careers
     - Transition from dance bands to performance orchestra for a seated audience
         * More features and solos
         * More tempo changes (taboo for dance bands)
-
+23. Warne Marsh (Tenor, 1927-1987)
+    - Protégé of Lee Konitz
+24. Chet Baker (Trumpet/Vocalist, 1929-1988)
+    - Notably did not start in Woody Herman or Stan Kenton's band
+    - Started with Jerry Mulligan's (Bari sax player) quartet
+25. Shorty Rogers (Trumpet/Composer, 1924-1994)
+    - Played with and wrote for both Woody Herman and Stan Kenton
+26. Jack Sheldon (Trumpet/Vocalist, 1931-Present)
+    - Also an actor
+    - Sang for School House Rock ("I'm Just a Bill" among others)
+27. Art Farmer (Trumpet/Flugelhorn, 1928-1999)
+    - Originally from Iowa
+    - Early teens in Phoenix
+    - Started with Lionel Hampton
+28. Art Pepper (Alto, 1925-1982)
+    - Started with Stan Kenton
+29. Jimmy Giuffre (Tenor/Clarinet/Composer, 1921-2008)
+    - Wrote for Woody Herman
+        * Wrote "Four Brothers"
+30. Paul "Dry Martini" Desmond (Alto, 1924-1977)
+    - Notably did not play with Woody Herman or Stan Kenton
+    - Played in Dave Brubeck quartet (only horn player)
+    - Similar sound to Lee Konitz
+31. Gerry Mulligan (Bari/Composer, 1927-1996)
+    - Sideman on Miles Davis' "Birth of the Cool"
+        * As a result, offered a residency at an L.A. club causing him to move from New York
+    - Uncommon combo instrument
+    - Brought the lighter sound of Cool to the Bari
+    - Jerry Mulligan's Quartet
+        * Notably did not have a piano (club probably didn't have one)
+        * Trumpet, Bari, Bass, Drums
+32. Chico Hamilton (Drums, 1921-2013)
+    - One of the relatively few African-American Cool musicians
+    - Played for Stan Kenton's Big Band and Gerry Mulligan's Quartet
+    - Ventured away from the ride rhythm
+33. Shelly Manne (Drums, 1921-2008)
+    - Played with both Stan Kenton and Woody Herman
+    - Drummer for Henry Mancini (TV and Film Composer) (Pink Panther and more)
+34. Jim Hall (Guitar, 1930-2013)
+    - Mellow sound
+    - Did not play very technically
+35. Carl Fontana (Trombone, 1928-2003)
+    - Played with Woody Herman
+    - Considered second only to J.J. Johnson
+    - Could be considered a Bop musician
+36. Frank Rosolino (Trombone, 1926-1978)
+    - Could be considered a Bop musician
+    - The top west coast trombone player
+    - Played with Stan Kenton
+        * Some compositions were named after him ("Frank Speaking")
+37. Bob Brookmeyer (Trombone/Composer, 1929-2011)
+    - Valve trombone
+        * Easy way out to avoid the difficulties of a slide
+38. Dave Brubeck (Piano/Composer, 1920-2012)
+    - Leader of Dave Brubeck quartet
+    - Most commercially successful Cool pianist
+    - Popular among college students
+        * Toured college campuses
+        * "Jazz Goes to College" album
+    - "Time Out" (our listening list)
+        * Unusual time signatures
+        * Take 5 (5/4)
+        * Blue Rondo a la Turk (9/8)
+            i. Blue -> Early days of jazz
+            ii. Rondo -> Form of the song, alternating sessions but always returning to the original. ABACAD...
+            iii. a la Turk -> Tribute to Turkish musicians (Brubeck visited Turkey)
+Bossa Nova (Popular 1958-1963)
+==============================
+1. Incorporation of Brazilian style
+2. "Bossa Nova" = "New Trend"/"New Beat"
+3. Antonio Carlos Jobim (Composer, 1927-1994)
+    - Most popular Bossa Nova composer
+    - Worked with Stan Getz
+    - Very important in bringing Bossa Nova to the U.S.
+    - "Desafinado"
+        * From album "Getz/Gilberto"
