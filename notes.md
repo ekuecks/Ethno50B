@@ -225,6 +225,7 @@ Cool (Late 1940s - Present)
             i. Blue -> Early days of jazz
             ii. Rondo -> Form of the song, alternating sessions but always returning to the original. ABACAD...
             iii. a la Turk -> Tribute to Turkish musicians (Brubeck visited Turkey)
+
 Bossa Nova (Popular 1958-1963)
 ==============================
 1. Incorporation of Brazilian style
@@ -235,3 +236,88 @@ Bossa Nova (Popular 1958-1963)
     - Very important in bringing Bossa Nova to the U.S.
     - "Desafinado"
         * From album "Getz/Gilberto"
+
+Hard Bop (Mid 1950s-Present)
+============================
+1. The Jazz Messengers
+    - Created by Art Blakey and Horace Silver
+    - Many top musicians got their start in this band
+2. Style invented by African-Americans that white people can't copy
+    - Rooted in black culture and lifestyle
+3. Julian "Cannonball" Adderly (Alto, 1928-1975)
+    - Considered most influential saxophonist since Charlie Parker
+    - Powerful but fluid sound
+    - Sideman with Miles Davis
+    - Later co-ran Cannonball Adderly Quartet with his brother Nat Adderly
+4. Sonny Rollins (Tenor/Composer, 1930-Present)
+    - The titan of jazz
+    - Initially influenced by Charlie Parker
+    - Stopped performing in the late 62s because he felt that he was not growing as a musician
+    - Isolated himself
+    - Would go to the Williamsburg bridge in New York to practice
+        * Artistic rediscovery
+        * Released "The Bridge"
+            i. "Without a Song" on our listening list
+    - Became addicted to heroin
+        * Worked as a day laborer for a year to get himself clean
+    - "Saxophone Colossus"
+5. Gene Ammons (Tenor, 1925-1974)
+    - Sometimes lumped in with the Bop musicians
+    - Made a lot of recordings with Sonny Stitt
+6. Benny Golson (Tenor/Composer, 1929-Present)
+    - Early in his career played in Art Blakey's group "The Jazz Messengers"
+    - Co-led the Jazztet with Art Farmer
+7. Joe Henderson (Tenor/Composer, 1937-2001)
+    - "Song for my Father" -- soloist for our recording
+    - Daring improviser
+        * Start simple and build to longer, more complex phrases
+8. John Coltrane (Tenor/Composer, 1926-1967)
+    - Emerged during the Hard Bop period
+    - Played with Miles Davis
+9. J.J. Johnson (Trombone, 1924-2001)
+    - Evolved from Bop to Hard Bop
+10. Curtis Fuller (Trombone, 1934-Present)
+    - Sideman for many influential groups
+        * Jazz Messenger
+        * Art Farmer
+        * Only trombonist to be a sideman with John Coltrane
+11. All the following guitarists were directly influenced by the swing era guitarist Charlie Christian
+    - Pioneer of the amplified guitar
+    - Arch top guitar
+        * Patterend after violins and cellos
+30. Many jazz musicians would play for commercial recordings under pseudonyms
+31. Wes Montgomery (Guitar, 1923-1968)
+    - Possibly the most influential guitarist since Charlie Christian
+    - Completely self-taught
+        * Could not read music
+        * Played with his thumb instead of a pick
+        * Didn't start playing until he was 21
+    - Melodic improviser
+    - Developed the octave technique
+        * playing notes in octaves on a guitar
+32. Kenny Burrell (Guitar, 1931-Present)
+    - Director of jazz studies at the University of California, Los Angeles
+    - Arguably equal in importance to Wes Montgomery
+    - Finished top 7 in Downbeat magazine reader's poll over 50 consecutive years
+    - Influenced by Christian, blues
+    - side man for Dizzy Gillespie for first recording
+33. Joe Pass (Guitar, 1929-1994)
+    - Solo guitar style
+        * Chord melodies -- playing chords on lower strings with melodic elemtns on higher strings
+34. Grant Green (Guitar, 1935-1979)
+    - Dead tone to the strings
+        * Did not allow notes to ring
+    - "Grant Stand" in the digital library
+    - Strong sense of rhythm and syncopation
+35. Pat Martino (Guitar, 1944-Present)
+36. George Benson (Guitar, 1943-Present)
+    - One of the great virtuoso guitarists
+37. Jazz organ
+    - Hammond B-1
+        * Had a percussive attack for each note instead of the traditional organ swell
+    - Organ trio -- Organ, Drums, Guitar
+38. Jimmy Smith (Organ, 1928-2005)
+39. Jack McDuff (Organ, 1926-2001)
+40. Jimmy McGriff (Organ, 1936-2008)
+41. Miles Davis (Trumpet, )
+
