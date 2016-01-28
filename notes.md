@@ -319,5 +319,121 @@ Hard Bop (Mid 1950s-Present)
 38. Jimmy Smith (Organ, 1928-2005)
 39. Jack McDuff (Organ, 1926-2001)
 40. Jimmy McGriff (Organ, 1936-2008)
-41. Miles Davis (Trumpet, )
 
+Miles Davis (Trumpet/Composer/Band Leader, 1926-1991)
+=====================================================
+1. One of the 'one-namers'
+2. Member of Rock and Roll Hall of Fame
+3. On the forefront of many jazz trends before they were popular
+    - At the cost of alienating his fan base
+4. Relatively privileged childhood compared to most jazz musicians of the time
+    - Son of a prominent dentist
+5. Grew up in Alton, Illinois
+    - White neighborhood
+6. Went to Juilliard for college to study music
+    - Did not have the intention of being a classical trumpet player
+    - Wanted to go to New York to be with the up and coming jazz scene
+    - Did not graduate, left school to join Charlie Parker's Band
+7. Jazz idols were Charlie Parker and Dizzy Gillespie
+    - Sat in with them once while he was in high school
+8. First recorded with Charlie Parker's band in 1945 (1819 years old)
+9. Created an original trumpet style unlike any of his predecessors
+    - Used fewer notes
+    - Revolutionary use of silence
+10. Put out a large volume of recordings
+    - The standard recording for many standards
+11. Collaborated with many other musicians, notably Gil Evans (piano/composer)
+    - First in 1949, released in 1950  "Birth of the Cool"
+        * unusual instrumentation tuba, French horn
+        * soft but intense
+    - Jazz orchestras
+        * Did not play dance tunes, more like symphony orchestras with jazz instruments
+    - "Porgy and Bess"
+    - "Miles Ahead"
+    - "Sketches of Spain"
+    - "Quiet Nights"
+12. Pioneered modal jazz
+    - Jazz built on a simplified, slower harmonic progression
+13. Pioneered jazz fusion
+    - Blend of 3 different styles -- jazz (improv), rock, funk 
+14. Notably used Harmon mute frequently
+    - Changes the sound of the horn
+    - Associated with Miles Davis, "Miles Davis" mute
+15. Started as a side man with Charlie Parker
+16. Classic Quintet
+    - 1955-1958
+    - Miles Davis
+    - Cannonball Adderly (Alto)
+    - Red Garland (Piano) -> Later Bill Evans
+    - Paul Chambers (Bass)
+    - Philly Joe Jones (Drums)
+    - John Coltrane (Tenor) sometimes
+17. "Kind of Blue" - 1959
+    - Classic Sextet members
+    - Start of modal jazz approach
+    - One of 2 best selling jazz album of all time with Dave Brubeck's "Time Out"
+18. Second Great Quintet
+    - 1964-1969
+    - Miles Davis (Trumpet)
+    - Wayne Shorter (Tenor)
+    - Herbie Hancock (Piano)
+    - Ron Carter (Bass)
+    - Tony Williams (Drums)
+    - Closer to Avant-Garde style
+19. Electric Miles Period of his career
+    - 1969-1991
+    - Jazz Fusion
+    - Replaced traditional acoustic instruments with electric versions
+    - Inspired by the rock and roll groups of the time
+    - First jazz music not focused on horns or singing
+    - Recorded 15 albums in 4 years
+    - Accused of selling out -- music much easier to play, not as interactive
+20. Became addicted to heroin
+    - Decided to kick his habit by locking himself in a room for a week
+21. Big fan of boxer 'Sugar' Ray Robinson
+    - Seeing his dedication and resolve inspired Davis to quit heroin
+22. Known for tough, mean attitude
+23. Became the best paid jazz musician at the time
+24. Feared prejudice in America
+    - Was beaten by a white cop while taking a break at a club he was working
+25. When it came to music, color didn't matter to Davis
+26. Was known to be able to bring out everyone's individuality in his group while remaining in his vision
+
+John Coltrane (Tenor/Soprano/Alto, 1926-1967)
+=============================================
+1. Primarily tenor
+2. Transformative
+3. Always evolving, improving
+4. Laser focused tone, particularly in the upper register
+5. Very imitated sound
+6. Influenced by the beboppers early in his career
+    - Dexter Gordon
+    - Sonny Stitt
+7. Also influenced by Lester Young
+8. Later took inspiration from the Avant-Garde movement
+    - They in turn where inspired by him
+9. Veteran of rhythm and blues band
+10. Sideman with Miles Davis in 1950s (Classic Quintet)
+11. Solos described as sheets of sound
+    - Flurry of notes
+12. Band leader
+    - Still sideman for Miles Davis
+    - First album "Blue Train" - 1967
+        * Lee Morgan (Trumpet)
+    - Compositions known for rapidly changing harmonic progressions
+        * "Moment's Notice" -- named because pianist during recording proclaimed "You can't expect us to play this at a moment's notice"
+    - "Giant Steps"
+        * Tommy Flannagan (Piano)
+13. Re-popularized soprano
+    - Popular in the swing era
+    - Unused in bop
+14. "A Love Supreme"
+    - LP -- Only 4 songs
+    - "Resolution" - Final exam listening list
+        * Popular among jazz musicians
+15. Classic Quartet
+    - McCoy Tyner (Piano)
+    - Jimmy Garrison (Bass)
+    - Elvin Jones (Drums)
+16. Died of Cancer at 40 years old
+17. Only had 12 years of recorded work
