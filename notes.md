@@ -132,7 +132,7 @@ Cool (Late 1940s - Present)
     - Disliked the Cool label
 10. Modern Jazz Quartet (MJQ)
     - Disliked the Cool label
-20. Lennie Tristano (Composer/Band Leader/Piano, 1919-1978)
+11. Lennie Tristano (Composer/Band Leader/Piano, 1919-1978)
     - Largely overlooked
     - One of the main creators of Cool as a modern jazz alternative to Bop
     - Influenced by pianist Art Tatum and Lester Young
@@ -145,44 +145,44 @@ Cool (Late 1940s - Present)
     - Influence on Bill Evans (piano)
     - Nearly blind
     - Played with splayed fingers on right hand, but curved left
-21. Lee Konitz (Alto, 1927-Present)
+12. Lee Konitz (Alto, 1927-Present)
     - Was a student of Lennie Tristano
         * Later colleague and band mate
     - Some claim he could rival Charlie Parker
         * Very different sound
         * Konitz was dry, airy, light vs. Parker's brittle sound
     - Preferred upper register
-22. Big bands had mostly disappeared by this time
+13. Big bands had mostly disappeared by this time
     - Some survivor's were Woody Herman's and Stan Kenton's bands
         * Both moved to the West Coast
         * Many noteworthy musicians started as members of these bands before contonuing on to solo careers
     - Transition from dance bands to performance orchestra for a seated audience
         * More features and solos
         * More tempo changes (taboo for dance bands)
-23. Warne Marsh (Tenor, 1927-1987)
+14. Warne Marsh (Tenor, 1927-1987)
     - Protégé of Lee Konitz
-24. Chet Baker (Trumpet/Vocalist, 1929-1988)
+15. Chet Baker (Trumpet/Vocalist, 1929-1988)
     - Notably did not start in Woody Herman or Stan Kenton's band
     - Started with Jerry Mulligan's (Bari sax player) quartet
-25. Shorty Rogers (Trumpet/Composer, 1924-1994)
+16. Shorty Rogers (Trumpet/Composer, 1924-1994)
     - Played with and wrote for both Woody Herman and Stan Kenton
-26. Jack Sheldon (Trumpet/Vocalist, 1931-Present)
+17. Jack Sheldon (Trumpet/Vocalist, 1931-Present)
     - Also an actor
     - Sang for School House Rock ("I'm Just a Bill" among others)
-27. Art Farmer (Trumpet/Flugelhorn, 1928-1999)
+18. Art Farmer (Trumpet/Flugelhorn, 1928-1999)
     - Originally from Iowa
     - Early teens in Phoenix
     - Started with Lionel Hampton
-28. Art Pepper (Alto, 1925-1982)
+19. Art Pepper (Alto, 1925-1982)
     - Started with Stan Kenton
-29. Jimmy Giuffre (Tenor/Clarinet/Composer, 1921-2008)
+20. Jimmy Giuffre (Tenor/Clarinet/Composer, 1921-2008)
     - Wrote for Woody Herman
         * Wrote "Four Brothers"
-30. Paul "Dry Martini" Desmond (Alto, 1924-1977)
+21. Paul "Dry Martini" Desmond (Alto, 1924-1977)
     - Notably did not play with Woody Herman or Stan Kenton
     - Played in Dave Brubeck quartet (only horn player)
     - Similar sound to Lee Konitz
-31. Gerry Mulligan (Bari/Composer, 1927-1996)
+22. Gerry Mulligan (Bari/Composer, 1927-1996)
     - Sideman on Miles Davis' "Birth of the Cool"
         * As a result, offered a residency at an L.A. club causing him to move from New York
     - Uncommon combo instrument
@@ -190,29 +190,29 @@ Cool (Late 1940s - Present)
     - Jerry Mulligan's Quartet
         * Notably did not have a piano (club probably didn't have one)
         * Trumpet, Bari, Bass, Drums
-32. Chico Hamilton (Drums, 1921-2013)
+23. Chico Hamilton (Drums, 1921-2013)
     - One of the relatively few African-American Cool musicians
     - Played for Stan Kenton's Big Band and Gerry Mulligan's Quartet
     - Ventured away from the ride rhythm
-33. Shelly Manne (Drums, 1921-2008)
+24. Shelly Manne (Drums, 1921-2008)
     - Played with both Stan Kenton and Woody Herman
     - Drummer for Henry Mancini (TV and Film Composer) (Pink Panther and more)
-34. Jim Hall (Guitar, 1930-2013)
+25. Jim Hall (Guitar, 1930-2013)
     - Mellow sound
     - Did not play very technically
-35. Carl Fontana (Trombone, 1928-2003)
+26. Carl Fontana (Trombone, 1928-2003)
     - Played with Woody Herman
     - Considered second only to J.J. Johnson
     - Could be considered a Bop musician
-36. Frank Rosolino (Trombone, 1926-1978)
+27. Frank Rosolino (Trombone, 1926-1978)
     - Could be considered a Bop musician
     - The top west coast trombone player
     - Played with Stan Kenton
         * Some compositions were named after him ("Frank Speaking")
-37. Bob Brookmeyer (Trombone/Composer, 1929-2011)
+28. Bob Brookmeyer (Trombone/Composer, 1929-2011)
     - Valve trombone
         * Easy way out to avoid the difficulties of a slide
-38. Dave Brubeck (Piano/Composer, 1920-2012)
+29. Dave Brubeck (Piano/Composer, 1920-2012)
     - Leader of Dave Brubeck quartet
     - Most commercially successful Cool pianist
     - Popular among college students
@@ -239,6 +239,8 @@ Bossa Nova (Popular 1958-1963)
 
 Hard Bop (Mid 1950s-Present)
 ============================
+1. Evolution from Bop, emerged on East coast
+2. Some say reaction to Cool
 1. The Jazz Messengers
     - Created by Art Blakey and Horace Silver
     - Many top musicians got their start in this band
@@ -285,41 +287,80 @@ Hard Bop (Mid 1950s-Present)
     - Pioneer of the amplified guitar
     - Arch top guitar
         * Patterend after violins and cellos
-30. Many jazz musicians would play for commercial recordings under pseudonyms
-31. Wes Montgomery (Guitar, 1923-1968)
-    - Possibly the most influential guitarist since Charlie Christian
-    - Completely self-taught
-        * Could not read music
-        * Played with his thumb instead of a pick
-        * Didn't start playing until he was 21
-    - Melodic improviser
-    - Developed the octave technique
-        * playing notes in octaves on a guitar
-32. Kenny Burrell (Guitar, 1931-Present)
-    - Director of jazz studies at the University of California, Los Angeles
-    - Arguably equal in importance to Wes Montgomery
-    - Finished top 7 in Downbeat magazine reader's poll over 50 consecutive years
-    - Influenced by Christian, blues
-    - side man for Dizzy Gillespie for first recording
-33. Joe Pass (Guitar, 1929-1994)
-    - Solo guitar style
-        * Chord melodies -- playing chords on lower strings with melodic elemtns on higher strings
-34. Grant Green (Guitar, 1935-1979)
-    - Dead tone to the strings
-        * Did not allow notes to ring
-    - "Grant Stand" in the digital library
-    - Strong sense of rhythm and syncopation
-35. Pat Martino (Guitar, 1944-Present)
-36. George Benson (Guitar, 1943-Present)
-    - One of the great virtuoso guitarists
-37. Jazz organ
-    - Hammond B-1
-        * Had a percussive attack for each note instead of the traditional organ swell
-    - Organ trio -- Organ, Drums, Guitar
-38. Jimmy Smith (Organ, 1928-2005)
-39. Jack McDuff (Organ, 1926-2001)
-40. Jimmy McGriff (Organ, 1936-2008)
-
+12. Many jazz musicians would play for commercial recordings under pseudonyms
+13. Wes Montgomery (Guitar, 1923-1968)
+   - Possibly the most influential guitarist since Charlie Christian
+   - Completely self-taught
+       * Could not read music
+       * Played with his thumb instead of a pick
+       * Didn't start playing until he was 33
+   - Melodic improviser
+   - Developed the octave technique
+       * playing notes in octaves on a guitar
+14. Kenny Burrell (Guitar, 1931-Present)
+   - Director of jazz studies at the University of California, Los Angeles
+   - Arguably equal in importance to Wes Montgomery
+   - Finished top 19 in Downbeat magazine reader's poll over 50 consecutive years
+   - Influenced by Christian, blues
+   - Side man for Dizzy Gillespie for first recording
+   - Idols: Parker, Fillespie
+15. Joe Pass (Guitar, 1929-1994)
+   - Solo guitar style
+       * Chord melodies -- playing chords on lower strings with melodic elemtns on higher strings
+16. Grant Green (Guitar, 1935-1979)
+   - Dead tone to the strings
+       * Did not allow notes to ring
+   - "Grant Stand" in the digital library
+   - Strong sense of rhythm and syncopation
+17. Pat Martino (Guitar, 1944-Present)
+18. George Benson (Guitar, 1943-Present)
+   - One of the great virtuoso guitarists
+19. Jazz organ
+   - Hammond B11
+       * Had a percussive attack for each note instead of the traditional organ swell
+   - Organ trio -- Organ, Drums, Guitar
+20. Jimmy Smith (Organ, 1928-2005)
+21. Jack McDuff (Organ, 1926-2001)
+22. Jimmy McGriff (Organ, 1936-2008)
+23. Tommy Flanagan (Piano, 1930-2001)
+   - From Detroit (Same as Kenny Burrell)
+   - Major influence was Art Tatum
+24. Art Tatum (Piano, 1909-1956)
+   - Avoided piano keys
+25. Horace Silver (Piano, 1928-2013)
+   - Most prolific composer of Hard Bop
+   - Not virtuoso
+   - "Senor Blues"
+   - Horace Silver quintet
+   - Founded Jazz Messengers with Art Blakey
+26. Ahmad Jamal (Piano, 1930-Present)
+   - Liked piano + bass + drums
+27. Clifford "Brownie" Brown (Trumpet, 1930-1956)
+   - Admired widely, but not well known outside of jazz
+   - No drugs
+   - Ease/comfort of playing difficult pieces
+   - "Daahoud"
+       * Goes a long time during solos without braething
+   - He and Richie Powell died in a car accident
+28. Freddie Hubbard (Trumpet, 1928-2009)
+   - Influence by Clifford Brown, Chet Baker, Miles Davis
+   - Manipulate pitch and tone depending on musical setting
+   - Strong sense of rhythm - double time
+   - Harmonically daring - took chances, tried things he hadn't done before
+29. Lee Morgan (Trumpet, 1938-1972)
+   - Primary influence was Clifford Brown (took lessons from him)
+   - Side man on many important Hard Bop recordings
+30. Max Roach (Drums, 1924-2007)
+   - Bop -> Hard Bop
+31. "Philly" Joe Jones (Drums, 1923-1985)
+    - Known for call and response
+32. Art Blakey (Drums, 1919-1991)
+    - Less rigid timekeeping, drums for accent
+    - Dynamic accompianist
+    - Cofounded Jazz Messengers with Horace Silver
+    - Hand picked young musicians
+    - Led band musically, not visually 
+    
 Miles Davis (Trumpet/Composer/Band Leader, 1926-1991)
 =====================================================
 1. One of the 'one-namers'
@@ -423,7 +464,7 @@ John Coltrane (Tenor/Soprano/Alto, 1926-1967)
     - Compositions known for rapidly changing harmonic progressions
         * "Moment's Notice" -- named because pianist during recording proclaimed "You can't expect us to play this at a moment's notice"
     - "Giant Steps"
-        * Tommy Flannagan (Piano)
+        * Tommy Flanagan (Piano)
 13. Re-popularized soprano
     - Popular in the swing era
     - Unused in bop
