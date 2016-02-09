@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  9 FEB 2016 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  4 FEB 2016 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**notes.tex
-(./notes.tex
+**cheng.tex
+(./cheng.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 21 languages loaded.
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/article.cls
@@ -676,8 +676,8 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 27.
 (/usr/local/texlive/2015basic/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(./notes.aux)
-\openout1 = `notes.aux'.
+No file cheng.aux.
+\openout1 = `cheng.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
@@ -693,7 +693,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
- (/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 51.
@@ -702,7 +702,8 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 51.
- (/usr/local/texlive/2015basic/texmf-dist/tex/latex/lm/t1lmr.fd
+
+(/usr/local/texlive/2015basic/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \microtypecontext on input line 51.
@@ -735,59 +736,43 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
- (./notes.out) (./notes.out)
 \@outlinefile=\write3
-\openout3 = `notes.out'.
+\openout3 = `cheng.out'.
 
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 67.
+ [1
 
-(/usr/local/texlive/2015basic/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
+{/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+ (./cheng.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 
-{/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-] [3]
-[4] [5] [6]
-Underfull \hbox (badness 1072) in paragraph at lines 1003--1006
-[]\T1/lmr/m/n/10 (+20) Many jazz mu-si-cians would play for com-mer-cial record
--ings un-der
- []
 
-[7] [8] [9]
-Underfull \hbox (badness 1571) in paragraph at lines 1402--1404
-[]\T1/lmr/m/n/10 (+20) Collaborated with many other mu-si-cians, no-tably Gil E
-vans (pi-
- []
+Package rerunfilecheck Warning: File `cheng.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-[10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1699.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1699.
- (./notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1699.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1699.
-
-Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 7299AB5377A5F6BFA632CF88DEB405BD;1512.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1699.
+Package rerunfilecheck Info: Checksums for `cheng.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 10748 strings out of 494501
- 154522 string characters out of 6167030
- 246381 words of memory out of 5000000
- 13780 multiletter control sequences out of 15000+600000
- 17663 words of font info for 31 fonts, out of 8000000 for 9000
+ 10562 strings out of 494501
+ 152181 string characters out of 6167030
+ 245894 words of memory out of 5000000
+ 13727 multiletter control sequences out of 15000+600000
+ 7808 words of font info for 21 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 31i,4n,35p,368b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/l
-ocal/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/tex
-live/2015basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/
-2015basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015b
-asic/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
-Output written on notes.pdf (12 pages, 92743 bytes).
+ 31i,4n,35p,230b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/l
+ocal/texlive/2015basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
+Output written on cheng.pdf (2 pages, 38536 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 260 compressed objects within 3 object streams
- 162 named destinations out of 1000 (max. 500000)
- 2105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 54 named destinations out of 1000 (max. 500000)
+ 2049 words of extra memory for PDF output out of 10000 (max. 10000000)
 
