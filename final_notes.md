@@ -6,7 +6,8 @@
     - Tell about the group (instrumentation, size)
         * How long are the songs
         * Does everyone improvise
-2. Post Bop = After Bop, Cool, and Hard Bop
+2. Post Bop = After Bop, Cool, and Hard Bop, early 1960s and later
+3. No period matching section on final (Most don't fit in a single period)
 
 Avant Garde (Popular 1960s-1970s)
 =================================
@@ -24,7 +25,77 @@ Avant Garde (Popular 1960s-1970s)
     - 2 alto, 1 tenor, 1 bari (compared to traditional 1 soprano instead of second alto)
 10. Make up new changes as the song develops
 11. During Civil Rights movement
-    - Musical militance
+    - Musical militancy
+12. Piano Trio
+    - Piano, Drums, Bass
+13. Bill Evans (Piano/Composer/Leader, 1929-1980)
+    - Rose to prominence in late 1950s as side man with Miles Davis on "Kind of Blue"
+    - Viewed as most influential pianist since Bud Powell
+    - Hard to categorize
+    - One of the most influential Post-Bop pianist
+    - Style based in Cool, developed his own original approach
+    - Made use of new chord voices and modal harmony
+        * Chord voice - How the chord is constructed, chords usually based in thirds
+        * Bill Evans built chords in fourths, less determined major vs. minor
+    - Redefined the piano trio
+        * Traditional roles of instruments were changed
+        * Sometimes Bass would keep time/play melody
+        * Emphasis of the beat was not present though time was still steady
+        * "Floating" style
+        * Avoided "obvious" accent points like first beat of a measure
+        * Used 3/4 time much more frequently than most
+    - Bill Evans trio
+        * Scott LaFaro (Bass)
+        * Paul Motian (Drums)
+    - Adapted harmonies from Impressionist Classical composers
+        * larger chords (4,5+ notes)
+    - "Nardis"
+14. McCoy Tyner (Piano/Composer/Leader, 1938-Present)
+    - Still playing
+    - One of the most influential piano players of the 21st century 
+    - Got his start with Benny Golson and Art Farmer's jazztet in 1960
+    - Part of Coltrane's Quartet later in 1960
+        * Left in 1965 when Coltrane's music was becoming atonal and free
+            i. More percussion musicians were added
+            ii. Tyner didn't have any feelings toward the music, just "noise" so left
+    - Strong left hand
+15. Ahmad Jamal (Piano/Composer/Leader, 1930-Present)
+    - Influence on Miles Davis, particularly his use of space
+    - Known for incorporating vamps - repeating rhythmic figure, usually with a melodic component
+    - "Ponciana"
+16. Cedar Walton (Piano/Composer/Leader, 1934-2013)
+    - Member of Jazztet, Jazz Messengers, briefly with John Coltrane (Giant Steps album), played with Charley Harrison
+    - Started as a classical pianist
+17. Herbie Hancock (Piano/Composer/Leader/Keyboardist, 1940-Present)
+    - Important to Jazz Fusion
+    - Sideman of Miles Davis Second Great Quintet
+    - Started career as child prodigy
+    - Performed with Chicago Symphony as a featured soloist at age 11
+        * Even more notable for an African American to do so in 1951
+    - Refined the Bill Evans style
+    - Influenced by Duke Ellington, Oscar Peterson, George Shearing
+    - "Maiden Voyage" - first album
+    - Pioneer in use of electronics
+    - Won Album of the Year Grammy in 2007
+    - Fusion band - The Headhunters
+18. Chick Corea (Piano/Composer/Leader/Keyboard, 1941-Present)
+    - Influenced by Horace Silver, Bill Evans, Bud Powell, Thelonius Monk, McCoy Tyner
+    - Classical influence as well
+    - Crisp, staccato style
+    - Spanish, Latin American themes
+    - Modern chord voicings
+    - Fusion band - Return to Forever
+        * Akoustic and Electrik bands
+    - Sideman for Miles Davis in late 1960's (start of Fusion)
+19. Keith Jarrett (Piano/Composer/Leader, 1945-Present)
+    - Child prodigy
+    - Played briefly with the Jazz Messengers
+    - Briefly sideman with Miles Davis
+    - Influenced by Bill Davis, Ornette Coleman
+    - Avoided staccato type passages
+    - Blend of funk, country, world music styles
+    - Most successful solo concert pianist in Jazz history
+        * First one to play in concert halls
 
 Free Jazz
 =========
@@ -58,6 +129,9 @@ Free Jazz
     - "Wild, turbulent"
     - Does not play with a traditional jazz swing feel
     - Incorporates syncopation
+    - "Pure energy" fueled his music
+    - Would have "imaginary concerts" at night to a pretend audience in his apartment
+    - Since he prepared for his concerts, the audience should too
 13. Albert Ayler (Tenor/Soprano/Vocals/Composer, 1936-1970)
     - Original yet unusual improviser
     - considered to have influenced Coltrane's late career
@@ -89,7 +163,7 @@ Free Jazz
 19. Art Ensemble of Chicago
     - One of the few Avant Garde ensembles to achieve prominence
     - Performed in African style costumes
-    - Played not jazz but great black music (more of an artform)
+    - Played not jazz but great black music (more of an art form)
     - Largest following was white college students in France
 20. Charlie Haden (Bass, 1937-2014)
     - Played with Ornette Coleman's Quartet
