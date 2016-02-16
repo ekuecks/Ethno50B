@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  11 FEB 2016 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  16 FEB 2016 12:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,37 +750,48 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ] [3]
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 578.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 578.
- (./final_notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 578.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 578.
-Package rerunfilecheck Info: File `final_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 60CDC0E7913F5D4AC05331D2811D8558;316.
+Underfull \hbox (badness 10000) in paragraph at lines 657--659
 
+ []
+
+[5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 762.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 762.
+ (./final_notes.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 762.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 762.
+
+
+Package rerunfilecheck Warning: File `final_notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `final_notes.out':
+(rerunfilecheck)             Before: 60CDC0E7913F5D4AC05331D2811D8558;316
+(rerunfilecheck)             After:  4E831C362D36877CC154FDBBCC25AE8F;510.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 578.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 762.
  ) 
 Here is how much of TeX's memory you used:
- 10622 strings out of 494501
- 153483 string characters out of 6167030
+ 10634 strings out of 494501
+ 153589 string characters out of 6167030
  246092 words of memory out of 5000000
- 13769 multiletter control sequences out of 15000+600000
+ 13770 multiletter control sequences out of 15000+600000
  17497 words of font info for 29 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 31i,4n,35p,271b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,4n,35p,271b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/l
 ocal/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/tex
 live/2015basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/
 2015basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015b
 asic/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
-Output written on final_notes.pdf (5 pages, 72800 bytes).
+Output written on final_notes.pdf (6 pages, 76048 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 51 named destinations out of 1000 (max. 500000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 62 named destinations out of 1000 (max. 500000)
  2065 words of extra memory for PDF output out of 10000 (max. 10000000)
 

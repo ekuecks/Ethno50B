@@ -157,7 +157,7 @@ Free Jazz
     - Brought new types of instruments into his ensemble
     - Small big band
     - One of the most innovative orchestrators since Duke Ellington
-18. AACM - Association for the advancement of creative musicians
+18. AACM - Association for the Advancement of Creative Musicians
     - Creative artists incubator
     - Could not financially sustain itself
 19. Art Ensemble of Chicago
@@ -167,3 +167,62 @@ Free Jazz
     - Largest following was white college students in France
 20. Charlie Haden (Bass, 1937-2014)
     - Played with Ornette Coleman's Quartet
+
+Jazz Fusion (Popular 1970s)
+===========================
+1. Mixture of jazz, rock, and funk
+    - Similar to Hard Bop in that respect
+        * Not trying to force the other styles into jazz though, rather changing jazz to fit in with the others
+2. Differences in jazz, rock, and funk
+    - Jazz tends to have longer phrase lengths than rock or funk
+    - Frequency of chord changes (Jazz tends to be faster)
+    - Jazz tends to be more harmonically complex
+    - Jazz tends to have more improvisation
+        * Biggest contribution from jazz to fusion is improv
+    - Jazz tends to have less repetition of drum beats
+    - Jazz tends to have less repetition of bass lines
+3. Fusion musicians grew up in the 1950s/60s when rock was popular
+4. Origin
+    - Improvisational style of Coltrane and Tyner
+    - Accompanying styles of Pop and R&B bands 
+    - Songs based on vamps
+    - Popularity of the electric guitar, bass (Fender bass) and keyboard
+    - Popularity/desire to bring in auxiliary percussion instruments
+5. Guitar had a leading role in most bands
+6. "Older" generation of guitarists
+    - John McLaughlin (Guitar/Leader, 1942-Present)
+        * solid body guitar
+        * Virtuoso
+        * First to take few breaks in his solo   
+        * One of the most prominent guitarists since Wes Montgomery
+        * Leader of Mahavishnu orchestra (5 members)
+            i. Double Necked Guitar, Keyboard, Bass, Drums, Violin
+    - Larry Coryell (Guitar, 1943-Present)
+        * From Texas
+        * Fused Jazz with Country
+        * Equally rooted in Rock and Hard Bop 
+        * Classically trained as well
+        * Hollow body guitar
+    - Pat Metheny (Guitar/Leader, 1954-Present)
+        * Most influential Fusion guitarist
+        * Notably used electronic effects (chorus effect)
+            i. Slightly delayed, slightly out of tune version of each pitch superimposed on the original
+        * First album "Bright Size Life"
+        * Pat Metheny Trio - Guitar, Bass, Drums
+        * Hollow body guitar
+7. "Newer" generation of guitarists
+    - Hiram Bullock (Guitar, 1955-2008)
+        * Originally a saxophonist
+        * Member of the Late Show David Letterman band in the 1980s
+        * Sideman for Miles Davis
+        * Solid body Fender Stratocaster (same guitar as Jimi Hendrix)
+    - John Scofield (Guitar, 1951-Present)
+        * Played with Miles Davis, Joe Henderson, Herbie Hancock, Pat Metheny among others
+        * Bass Desires
+        * Arguably equally skilled in Bop, Fusion, Funk, Soul
+        * Semi-hollow body guitar
+    - Mike Stern (Guitar/Leader, 1953-Present)
+        * Played with Miles Davis
+        * 5 time Grammy nominee
+        * Solid body guitar
+        * Chorus effect
