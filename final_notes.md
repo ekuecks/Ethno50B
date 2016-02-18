@@ -226,3 +226,19 @@ Jazz Fusion (Popular 1970s)
         * 5 time Grammy nominee
         * Solid body guitar
         * Chorus effect
+8. Joe Zawinul (Piano, 1932-2007)
+    - One of the first to utilize keyboard
+    - Came to prominence playing with Cannonball Adderly
+    - Co-founded the groups Weather Report
+        * One of the leading fusion bands
+        * Co-founded by Wayne Shorter (Tenor Sax), Miroslav Vitous and Zawinul
+        * Shorter and Zawinul met in Maynard Ferguson's band
+        * "Birdland" on our listening list
+    - Co-founded the Zawinul Syndicate
+9. Jaco Pastorius (Bass, 1951-1987)
+    - Joined Weather Report in 1976
+    - First virtuoso electric bassist
+    - Played fret-less bass
+        * Changes the sound of the instrument
+        * Makes the sound richer and warmer, more like an upright bass
+
