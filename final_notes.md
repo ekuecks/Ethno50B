@@ -2,7 +2,7 @@
     - Just focus on one group if you go to the UCLA concert
     - Have fun with it
     - Relate it to class
-        * Does anything sound familiar
+        * Does anything sound familiar (could be songs from our listening list)
     - Tell about the group (instrumentation, size)
         * How long are the songs
         * Does everyone improvise
@@ -22,7 +22,8 @@ Avant Garde (Popular 1960s-1970s)
 8. Vibrant scene in Chicago
 9. World Saxophone Quartet (New York)
     - Elements of Free
-    - 2 alto, 1 tenor, 1 bari (compared to traditional 1 soprano instead of second alto)
+    - 2 alto (Julius Hemphill, Oliver Lake), 1 tenor, 1 bari (compared to traditional 1 soprano instead of second alto)
+    - "Metamorphosis" from our listening list
 10. Make up new changes as the song develops
 11. During Civil Rights movement
     - Musical militancy
@@ -50,6 +51,7 @@ Avant Garde (Popular 1960s-1970s)
     - Adapted harmonies from Impressionist Classical composers
         * larger chords (4,5+ notes)
     - "Nardis"
+    - "All of you" from our listening list
 14. McCoy Tyner (Piano/Composer/Leader, 1938-Present)
     - Still playing
     - One of the most influential piano players of the 21st century 
@@ -59,13 +61,17 @@ Avant Garde (Popular 1960s-1970s)
             i. More percussion musicians were added
             ii. Tyner didn't have any feelings toward the music, just "noise" so left
     - Strong left hand
+    - "Passion Dance" from our listening list
 15. Ahmad Jamal (Piano/Composer/Leader, 1930-Present)
     - Influence on Miles Davis, particularly his use of space
     - Known for incorporating vamps - repeating rhythmic figure, usually with a melodic component
-    - "Ponciana"
+    - Dramatic crescendos and very staccato attack
+    - "Ponciana" from our listening list
 16. Cedar Walton (Piano/Composer/Leader, 1934-2013)
     - Member of Jazztet, Jazz Messengers, briefly with John Coltrane (Giant Steps album), played with Charley Harrison
     - Started as a classical pianist
+    - Also Hard Bop
+    - Use of sequencing
 17. Herbie Hancock (Piano/Composer/Leader/Keyboardist, 1940-Present)
     - Important to Jazz Fusion
     - Sideman of Miles Davis Second Great Quintet
@@ -78,6 +84,7 @@ Avant Garde (Popular 1960s-1970s)
     - Pioneer in use of electronics
     - Won Album of the Year Grammy in 2007
     - Fusion band - The Headhunters
+    - "Chameleon" and "Maiden Voyage" from our listening list
 18. Chick Corea (Piano/Composer/Leader/Keyboard, 1941-Present)
     - Influenced by Horace Silver, Bill Evans, Bud Powell, Thelonius Monk, McCoy Tyner
     - Classical influence as well
@@ -87,6 +94,7 @@ Avant Garde (Popular 1960s-1970s)
     - Fusion band - Return to Forever
         * Akoustic and Electrik bands
     - Sideman for Miles Davis in late 1960's (start of Fusion)
+    - Collaborates with Gary Burton (Vibraphonist)
 19. Keith Jarrett (Piano/Composer/Leader, 1945-Present)
     - Child prodigy
     - Played briefly with the Jazz Messengers
@@ -96,6 +104,7 @@ Avant Garde (Popular 1960s-1970s)
     - Blend of funk, country, world music styles
     - Most successful solo concert pianist in Jazz history
         * First one to play in concert halls
+    - One of the most original composers of the 70s
 
 Free Jazz
 =========
@@ -120,10 +129,12 @@ Free Jazz
         * Ornette played there 4 months, 6 nights per week
     - "Free Jazz" Album
         * One piece filled both sides of the record
+    - "Lonely Woman" from our listening list
 11. Don Cherry (Trumpet/Composer/Leader, 1936-1995)
     - Important sideman on almost all of Ornette Coleman's earlier recordings
     - Influenced by Fats Navarro and Clifford Brown
     - Also influenced by Coleman's musicianship and approach to improv
+    - Played with a pocket trumpet
 12. Cecil Taylor (Piano/Leader, 1929-Present)
     - Created an alternative to modern mainstream piano style
     - "Wild, turbulent"
@@ -132,24 +143,28 @@ Free Jazz
     - "Pure energy" fueled his music
     - Would have "imaginary concerts" at night to a pretend audience in his apartment
     - Since he prepared for his concerts, the audience should too
+    - Focus on textures
 13. Albert Ayler (Tenor/Soprano/Vocals/Composer, 1936-1970)
     - Original yet unusual improviser
     - considered to have influenced Coltrane's late career
     - Used the entire range of the tenor, utilized altissimo
+    - "Ghosts" from our listening list
 14. Charles Mingus (Bass/Composer/Leader, 1922-1979)
     - Combined composition with improvisation while also creating accompaniment patterns
         * Could alter song during a performance, for instance letting a soloist go on longer
         * Multiple background sections to decide in the moment which to play
     - Small big band
     - Second only to Ellington in the complexity of his compositions
+    - "Fables of Faubus" in our listening list
 15. Eric Dolphy (Alto/Flute/Bass Clarinet/Composer, 1928-1964)
     - Considered a virtuoso on all 3
     - Also played Tonal jazz
         * Featured guest with John Coltrane Quartet
     - Unusual "mathematical" element to compositions
-16. Rahsaan Rowland Kirk (Tenor/Flute/Clarinet, 1936-1977)
+16. "Rahsaan" Rowland Kirk (Tenor/Flute/Clarinet, 1936-1977)
     - Also played various unusual woodwinds and saxophone derivatives
     - One of the first to explore circle breathing
+    - Incorporated "Musique Concrete" - use of recorded sounds in performance (sampling)
 17. Sun Ra (Piano/Composer/Leader, 1915-1993)
     - Much older than most avant garde musicians 
     - Interest in outer space, thought there was a link between his music and outer space
@@ -158,6 +173,7 @@ Free Jazz
     - Small big band
     - One of the most innovative orchestrators since Duke Ellington
 18. AACM - Association for the Advancement of Creative Musicians
+    - Founded by Muhal Richard Abrams
     - Creative artists incubator
     - Could not financially sustain itself
 19. Art Ensemble of Chicago
@@ -241,4 +257,59 @@ Jazz Fusion (Popular 1970s)
     - Played fret-less bass
         * Changes the sound of the instrument
         * Makes the sound richer and warmer, more like an upright bass
+
+New Age Music (1980s-Present)
+=============================
+1. Hybrid between jazz and classical
+2. Minimalist Classical music
+    - Compositional style where composer purposefully limits themself
+    - Not many abrupt changes
+3. Piano dominated, similar to the music of Keith Jarrett
+4. George Winston (Piano, 1949-Present)
+5. Oregon
+    - Ensemble
+    - Ralph Towner, Paul McCandless, Glen Moore, Collin Walcott
+6. Paul Winter Consort
+    - Ensemble
+7. Yanni
+
+Smooth Jazz (1980s-Present)
+===========================
+1. Highly commercial genre
+2. Background music
+3. Resulted from record label direction to try to sell more
+4. Became the most popular adult radio format of 1980's (listeners > 35 years old)
+5. Artists seeking to cash in
+6. Forced mainstream jazz off of commercial radio
+7. Greatly simplified version of jazz
+8. Similar to Cool in that it tried to be more accessible to a broader audience
+9. Criticized by musicians
+10. Name made by radio station
+11. Grover Washington (Saxophone)
+    - "Mister Magic" on our listening list
+12. George Benson (Guitar/Singer, 1943-Present)
+    - Forerunner of Smooth
+    - Criticized for selling out
+13. Bob James (Keyboard)
+14. Kenny G. (Saxophone)
+
+Soul Saxes (1980s-Present)
+==========================
+1. Area of influence for saxophone players
+2. Merging of funk and soul saxophone traditions with classical
+3. Emulates singing inflections on a saxophone
+4. Inspired by:
+    - Stanley Turrentine (Tenor, 1934-2000)
+    - Hank Crawford (Alto, 1934-2009)
+5. Grover Washington (Tenor/Alto/Soprano, 1943-1999)
+6. David Sanborn (Alto, 1945-Present)
+    - Hosted a late night TV show that featured musical guests like Turrentine and Crawford
+    - Highly sought after sideman (session player)
+        * Played with many famous and well known musicians, even outside of Jazz
+    - Laser like sound
+7. Michael Brecker (Tenor, 1949-2007)
+    - Started playing in this style, but very important in a lot of genres
+    - Pioneer of the EWI (electronic wind intrument)
+    - Widely regarded as the most influential Tenor Saxophonist since John Coletrane
+    - Inducted into Downbeat Magazine hall of fame in 2007
 

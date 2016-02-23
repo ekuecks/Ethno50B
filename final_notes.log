@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  18 FEB 2016 13:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.29)  23 FEB 2016 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,39 +749,49 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {/usr/local/texlive/2015basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ] [3]
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 657--659
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 691--693
 
  []
 
-[5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 809.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 809.
+[6] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 998.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 998.
  (./final_notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 809.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 809.
-Package rerunfilecheck Info: File `final_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 4E831C362D36877CC154FDBBCC25AE8F;510.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 809.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 998.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 998.
+
+
+Package rerunfilecheck Warning: File `final_notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `final_notes.out':
+(rerunfilecheck)             Before: 4E831C362D36877CC154FDBBCC25AE8F;510
+(rerunfilecheck)             After:  73449449B4D973EA3CAA59FE2BD90959;1091.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 998.
  ) 
 Here is how much of TeX's memory you used:
- 10637 strings out of 494501
- 153615 string characters out of 6167030
+ 10675 strings out of 494501
+ 153955 string characters out of 6167030
  246142 words of memory out of 5000000
- 13771 multiletter control sequences out of 15000+600000
- 17497 words of font info for 29 fonts, out of 8000000 for 9000
+ 13774 multiletter control sequences out of 15000+600000
+ 17580 words of font info for 30 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 31i,4n,35p,271b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,4n,35p,271b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/l
 ocal/texlive/2015basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/tex
 live/2015basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/
 2015basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015b
 asic/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
-Output written on final_notes.pdf (6 pages, 76738 bytes).
+Output written on final_notes.pdf (8 pages, 83131 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 97 named destinations out of 1000 (max. 500000)
  2073 words of extra memory for PDF output out of 10000 (max. 10000000)
 
