@@ -309,7 +309,78 @@ Soul Saxes (1980s-Present)
     - Laser like sound
 7. Michael Brecker (Tenor, 1949-2007)
     - Started playing in this style, but very important in a lot of genres
-    - Pioneer of the EWI (electronic wind intrument)
+    - Pioneer of the EWI (electronic wind instrument)
+        * Wind based synthesizer
     - Widely regarded as the most influential Tenor Saxophonist since John Coletrane
     - Inducted into Downbeat Magazine hall of fame in 2007
+    - Brecker Brothers band
+
+Latin Jazz (1940s-Present)
+==========================
+1. Latin elements have been a part of jazz forever
+2. Similar to Mambo, Salsa, Bossa Nova
+3. Jazz improvisation with Caribbean and or South American music
+4. Usually expanded percussion (auxiliary), maybe not a traditional drum set
+5. As early as the late 1940s, Dizzy Gillespie began to explore blending Latin American music with his Big Band and Stan Kenton used auxiliary percussionists
+6. Chano Pozo (Percussion, 1915-1948)
+    - Played with Dizzy's big band, "Manteca" on our listening list
+7. Some musicians we've already covered: Horace Silver, George Shearing (Piano)
+8. Cal Tjader (Percussion, 1925-1982)
+9. Music not based on swing feel (straight), based on clave pattern
+10. Eddie Palmieri (Piano)
+11. Mario Bauza (Trumpet/Clarinet, 1911-1993)
+12. Valdez Piano family
+    - Babo (1918-2013)
+    - Chucho (1941-Present), Babo's son
+    - Chuchito (196 -Present) Chucho's son
+13. Tito Puente (Timbales, 1923-2000)
+    - Suspended drums similar to tom toms
+14. Paquito D'rivera (Alto/clarinet, 1948-Present)
+    - One of the youngest to receive "Jazz Master" award
+15. Danillo Perez (Piano, 1966-Present)
+16. Arturo Sandoval (Trumpet, 1949-Present)
+    - Protégé of Dizzy
+
+Neo-Classic Jazz
+================
+1. Straight Ahead Jazz/Modern mainstream
+2. Resembles Hard Bop
+3. Does not use many electronic instruments
+    - Acoustic piano and upright bass (still electric guitar but more traditional sound)
+4. More of a movement than a style/period
+5. Marsalis family
+    - Ellis (Piano/Leader/Educator, 1934-Present)
+        * Among the most respected pianists in jazz
+        * Avoided the spotlight to focus on teaching
+        * Encouraged students to make discoveries on their own through careful listening and experimentation
+    - Branford (Alto/Tenor/Bari/Soprano, 1960)
+        * Began with Art Blakey (not a messenger)
+        * Showed many diverse instruments, not solely a jazz musician, played with Sting, Harry Conick Jr., Tina Turner etc.
+        * Tonight Show band leader
+    - Wynton (Trumpet/Leader/Composer, 1961)
+        * Graduated from Juilliard
+        * Got a record deal with Columbia Records (Branford played Tenor)
+        * Named after pianist Wynton Kelly (sideman for Miles Davis)
+    - Delfeayo (Trombone/Producer, 1965)
+        * Disliked "bass direct" recording technique
+    - Jason (Drums/Vibraphone, 1977)
+        * Started playing with his father's group at age 12
+        * Known for incorporating polyrhythms
+        * Influenced by Elvin Jones
+6. Diana Krall (Piano/Vocals, 1964)
+    - Originally from Canada
+    - Started playing at 4
+    - Went to Berklee college of music
+    - Was "discovered" by bassist Ray Brown
+    - Influence by Nat King Cole
+    - One of the most internationally famous jazz artists today
+7. John Clayton (Bass/Leader/Composer)
+    - Clayton-Hamilton Jazz Orchestra
+    - Taught at U$C
+8. Anthony Wilson (Guitar)
+    - Son of famous Trumpet player Gerald Wilson (former teacher of Ethno 50b at UCLA)
+    - Taught Jazz guitar at UCLA until he began to tour with Diana Krall
+7. Michael Brecker (Tenor, 1949-2007) [Again]
+    - Expanded the approach of playing outside the changes
+        * Deliberately and carefully playing outside the harmony
 
