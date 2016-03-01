@@ -207,9 +207,9 @@ Jazz Fusion (Popular 1970s)
 5. Guitar had a leading role in most bands
 6. "Older" generation of guitarists
     - John McLaughlin (Guitar/Leader, 1942-Present)
-        * solid body guitar
+        * Solid body guitar
         * Virtuoso
-        * First to take few breaks in his solo   
+        * First to take few breaks in his solo 
         * One of the most prominent guitarists since Wes Montgomery
         * Leader of Mahavishnu orchestra (5 members)
             i. Double Necked Guitar, Keyboard, Bass, Drums, Violin
@@ -218,6 +218,7 @@ Jazz Fusion (Popular 1970s)
         * Fused Jazz with Country
         * Equally rooted in Rock and Hard Bop 
         * Classically trained as well
+            i. Influenced by Stravinski
         * Hollow body guitar
     - Pat Metheny (Guitar/Leader, 1954-Present)
         * Most influential Fusion guitarist
@@ -245,7 +246,7 @@ Jazz Fusion (Popular 1970s)
 8. Joe Zawinul (Piano, 1932-2007)
     - One of the first to utilize keyboard
     - Came to prominence playing with Cannonball Adderly
-    - Co-founded the groups Weather Report
+    - Co-founded the group Weather Report
         * One of the leading fusion bands
         * Co-founded by Wayne Shorter (Tenor Sax), Miroslav Vitous and Zawinul
         * Shorter and Zawinul met in Maynard Ferguson's band
@@ -271,12 +272,12 @@ New Age Music (1980s-Present)
     - Ralph Towner, Paul McCandless, Glen Moore, Collin Walcott
 6. Paul Winter Consort
     - Ensemble
-7. Yanni
+7. Yanni (Keyboard, 1954-Present)
 
 Smooth Jazz (1980s-Present)
 ===========================
 1. Highly commercial genre
-2. Background music
+2. Background music (muzak)
 3. Resulted from record label direction to try to sell more
 4. Became the most popular adult radio format of 1980's (listeners > 35 years old)
 5. Artists seeking to cash in
@@ -293,8 +294,8 @@ Smooth Jazz (1980s-Present)
 13. Bob James (Keyboard)
 14. Kenny G. (Saxophone)
 
-Soul Saxes (1980s-Present)
-==========================
+Soul Saxes/Contemporary Jazz (1980s-Present)
+============================================
 1. Area of influence for saxophone players
 2. Merging of funk and soul saxophone traditions with classical
 3. Emulates singing inflections on a saxophone
@@ -323,7 +324,7 @@ Latin Jazz (1940s-Present)
 4. Usually expanded percussion (auxiliary), maybe not a traditional drum set
 5. As early as the late 1940s, Dizzy Gillespie began to explore blending Latin American music with his Big Band and Stan Kenton used auxiliary percussionists
 6. Chano Pozo (Percussion, 1915-1948)
-    - Played with Dizzy's big band, "Manteca" on our listening list
+    - Played with Dizzy's big band, "Manteca"
 7. Some musicians we've already covered: Horace Silver, George Shearing (Piano)
 8. Cal Tjader (Percussion, 1925-1982)
 9. Music not based on swing feel (straight), based on clave pattern
@@ -340,6 +341,7 @@ Latin Jazz (1940s-Present)
 15. Danillo Perez (Piano, 1966-Present)
 16. Arturo Sandoval (Trumpet, 1949-Present)
     - Protégé of Dizzy
+17. Surge in popularity in the 1980s
 
 Neo-Classic Jazz
 ================
@@ -384,3 +386,45 @@ Neo-Classic Jazz
     - Expanded the approach of playing outside the changes
         * Deliberately and carefully playing outside the harmony
 
+Vocal Jazz (1950s-Present)
+==========================
+1. Incorporation of vocalese
+    - Style of singing usually associated with jazz with lyrics written for melodies that were originally part of an all instrumental composition or improvisation
+    - Difficult because some songs were not designed to have lyrics originally
+2. Scatting
+    - Improvisational tool for singers
+3. King Pleasure (Clarence Beaks) (Vocals, 1922-1981)
+    - First known vocalist to record in the vocalese style and have some popularity
+4. Eddie Jefferson (Vocals, 1918-1979)
+    - Important to the start of vocalese
+    - Wrote some of the first lyrics
+5. Kurt Elling (Vocals, 1968-Present)
+    - "Athletic" type singer
+    - "Jeannine" on our listening list
+6. Karrin Allyson (Vocals, 1963-Present)
+7. Vocal groups
+    - Most common form of modern vocal jazz
+    - 8-12 members
+8. Important vocal groups
+    - Lambert, Hendricks and Ross (Dave, Jon, Annie) (Vocals, 1957-1962)
+        * Virst vocalese group
+        * "Sing a song of Basie" first album
+    - Singers Unlimited (Vocals, 1971-1972)
+        * Not solely a jazz group
+        * Gene Perling founder/primary arranger
+    - Manhattan Transfer (Vocals, 1969-Present)
+        * More commercial after some time
+    - New York Voices (Vocals, 1987-Present)
+        * Utilized a capella
+    - Take 6 (Vocals, 1980-Present)
+        * Primarily a capella
+        * 6 members (all male)
+    - The Real Group (Vocals, 1984-Present)
+        * A Capella
+        * From Sweden, not very well known in America
+        * Swing music
+        * 5 parts (2 women, 3 men)
+9. Vocal jazz growth largely due to expansion of music education
+10. Sometimes looked down upon by more traditional jazz musicians because vocal jazz generally does not have as much room for improv
+11. A Capella
+    - Without accompaniment
