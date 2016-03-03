@@ -428,3 +428,69 @@ Vocal Jazz (1950s-Present)
 10. Sometimes looked down upon by more traditional jazz musicians because vocal jazz generally does not have as much room for improv
 11. A Capella
     - Without accompaniment
+
+
+Other Present Day Jazz Musicians
+================================
+1. John Clayton (Bass/Composer, 1952-Present)
+    - Primarily upright bass
+    - Played with Count Basie orchestra right out of college in the 70s
+    - Now co-leads 2 groups in L.A.
+        * Clayton brothers quintet with his brother
+        * Clayton-Hamilton jazz orchestra with his brother and drummer Jeff Hamilton
+2. Marcus Miller (Bass/Composer, 1959-Present)
+    - Primarily electric bass
+    - Also plays clarinet, bass clarinet, saxophone
+    - Bassist and producer for Miles Davis
+3. Stanley Clarke (Bass, 1951-Present)
+    - More well known as electric bass but plays both
+    - Bassist for Chick Corea band Return to Forever
+4. Christian McBride (Bass, 1972-Present)
+    - Primarily upright bass
+5. Bob Mintzer (Composer/Leader/Tenor, 1953-Present)
+    - From NY
+    - Bob Mintzer Big Band in NY
+    - Director of U$C Jazz Orchestra
+6. Anthony Wilson (Composer/Guitar, 1968-Present)
+    - Guitarist for Diana Krall
+    - Used to teach at UCLA
+    - Son of Gerald Wilson (previous teacher of Ethno 50B)
+    - Favors a mid-sized jazz group (9 piece ensemble)
+7. Maria Schneider (Composer, 1960-Present)
+    - Based in NY
+    - "Hang Gliding" from our listening list
+        * Based on the experience of hang gliding
+        * Programmatic
+    - Studied under Bob Brookmeyer (Cool trombonist), Gil Evans
+8. Terence Blanchard (Trumpet, 1962-Present)
+    - Emerged 6-8 months after Wynton Marsalis, shadowed by him
+    - Film composer (particularly for Spike Lee)
+9. Terrell Stafford (Trumpet, 1966-Present)
+10. Roy Hargrove (Trumpet, 1969-Present)
+    - Heavy influence from hard boppers
+        * Clifford Brown, Lee Morgan, Freddie Hubbard
+11. Dianne Reeves (Vocals, 1956-Present)
+12. Sara Gazarek (Vocals, 1982-Present)
+13. Freddy Cole (Vocals/Piano, 1931-Present)
+    - Younger brother of Nat King Cole
+14. Cyrille Aimee (Vocals, 1984-Present)
+    - French-Belgian singer
+    - Skilled improviser
+15. Russell Malone (Guitar, 1963-Present)
+    - Worked with Diana Krall before Anthony Wilson
+16. Bobby Broom (Guitar, 1961-Present)
+    - Incorporated pop music with jazz
+17. Josh Nelson (Piano, 1978-Present)
+    - Pianist for Natalie Cole
+18. John Campbell (Piano, 1955-Present)
+19. Tamir Hendelman (Piano, 1971-Present)
+    - Jazz piano professor at UCLA
+20. Robert Glasper (Piano, 1978-Present)
+21. Joshua Redman (Tenor, 1969-Present)
+    - Based in SF
+22. Eric Alexander (Tenor, 1968-Present)
+23. Joel Frahm (Tenor, 1970-Present)
+24. John Wojciechowski (Alto/Tenor, 1963-Present)
+25. Joe Lovano (Tenor, 1952-Present)
+    - Frequently plays with John Scofield
+26. Kamasi Washington (Tenor, 1981-Present)
